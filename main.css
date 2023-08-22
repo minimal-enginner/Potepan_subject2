@@ -1,0 +1,35 @@
+.ten_min {
+  font-weight: 300;
+  font-size:50px;
+}
+
+.one_min {
+  font-weight: 300;
+  font-size:50px;
+}
+
+.ten_sec {
+  font-weight: 300;
+  font-size:50px;
+}
+
+.stopwatch {
+  font-weight: 300;
+  font-size:50px;
+}
+
+.button {
+  margin-top: 50px;
+}
+
+.start {
+  padding:20px;
+}
+
+.stop {
+  padding:20px;
+}
+
+.reset {
+  padding:20px;
+}
