@@ -16,6 +16,10 @@ $(document).ready(function(){
     $('.start').prop('disabled', false);
     $('.stop').prop('disabled', true);
     clearInterval(timer);
+    msec = 0;
+    sec = 0;
+    min = 0;
+    hour = 0;
     $('.stopwatch').html('0:0:0:0');
   });
 });
